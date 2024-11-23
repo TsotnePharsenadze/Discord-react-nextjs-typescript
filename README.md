@@ -45,7 +45,6 @@ Create servers, manage roles, and chat in real-time with WebSocket and React-Que
 
 <br/>
 
-# Discord clone by Walle Mechson (pseudo-name)
 
 ## Features
 
